@@ -1,5 +1,3 @@
-# ai-adoption-playbook
-Practical guidance for AI adoption, prompt engineering, user enablement, and AI support best practices.
 # AI Adoption Playbook
 
 A practical guide for helping individuals and organisations successfully adopt Artificial Intelligence technologies.
@@ -29,20 +27,24 @@ Successful AI adoption requires:
 
 ## Repository Contents
 
-### Getting Started with AI
-Introduction to AI tools and responsible use.
+| Document | Description | Who it is for |
+| --- | --- | --- |
+| [Adoption Framework](AdoptionFramework.md) | A structured, six-phase approach to introducing AI into teams and organisations | Sponsors, managers and adoption leads |
+| [Getting Started with AI](GettingStarted.md) | Introduction to AI tools and responsible use | New users |
+| [Prompt Engineering Basics](PromptEngineeringBasics.md) | Techniques for writing effective prompts | All users |
+| [AI Best Practices](AIBestPractices.md) | Guidance for productive and safe AI usage | All users |
+| [Common AI Support Questions](CommonUserQuestions.md) | Common user questions and how to answer them | Service desk and champions |
 
-### Prompt Engineering Basics
-Techniques for writing effective prompts.
+## Where to Start
 
-### AI Support Scenarios
-Examples of common user questions and resolutions.
+- **Introducing AI to a team or organisation:** start with the [Adoption Framework](AdoptionFramework.md).
+- **New to AI tools:** read [Getting Started with AI](GettingStarted.md), then [Prompt Engineering Basics](PromptEngineeringBasics.md).
+- **Supporting AI users:** keep [Common AI Support Questions](CommonUserQuestions.md) and [AI Best Practices](AIBestPractices.md) to hand.
 
-### AI Best Practices
-Guidance for productive and safe AI usage.
+## Related Projects
 
-### Adoption Framework
-A structured approach to introducing AI into teams and organisations.
+- [Incident Management Playbook](https://github.com/Tolsty593/incident-management-playbook)
+- [PowerShell Support Toolkit](https://github.com/Tolsty593/powershell-support-toolkit)
 
 ## Author
 
